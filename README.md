@@ -1,4 +1,6 @@
 Preprocess_SIEMENS_data
 =======================
 
-Preprocess  SIEMENS data to be analyze by using mrvista.
+Preprocessing SIEMENS data to analyze by using vistasoft.
+
+SO @ Vista lab 2014
